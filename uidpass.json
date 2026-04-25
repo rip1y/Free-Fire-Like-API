@@ -1,10 +1,1651 @@
-[
-    {
-        "uid": "guest uid 1",
-        "password": "guest password 1"
-    },
-    {
-        "uid": "guest uid 2",
-        "password": "guest password 2"
-    }
+[{
+    "uid": 4745396520,
+    "password": "NARUTO_CODEX_PGEA",
+    "name": "NARUTO\u30c4\u2076\u2070\u2079\u2074",
+    "account_id": "15498403861",
+    "region": "IND",
+    "access_token": "b880ca6d85506e3b093439ad2806f0146898e30deac307022bf55f58d61e5480",
+    "open_id": "f42d737f0d8779f5f6aba5f839262c20",
+    "generated_at": "2026-04-25T09:47:59.840475"
+  },
+  {
+    "uid": 4745396863,
+    "password": "NARUTO_CODEX_IUWT",
+    "name": "NARUTO\u30c4\u00b9\u2076\u2070\u2079",
+    "account_id": "15498404481",
+    "region": "IND",
+    "access_token": "ddd61f43d08857df00e09b8c74b9f33322a03119fc63fd30c7e2ea2bfe669f02",
+    "open_id": "8c39dac1dbe172316d934e08dd69aa79",
+    "generated_at": "2026-04-25T09:48:02.407735"
+  },
+  {
+    "uid": 4745397092,
+    "password": "NARUTO_CODEX_AEPY",
+    "name": "NARUTO\u30c4\u2074\u2074\u00b3\u2079",
+    "account_id": "15498404962",
+    "region": "IND",
+    "access_token": "fe3d268bfccd0e4f6d8d5e5acd274aec4d09238b34609c1fb37e1f2e07a8c35b",
+    "open_id": "ea2309b98245509a818a10c72caf5150",
+    "generated_at": "2026-04-25T09:48:05.051267"
+  },
+  {
+    "uid": 4745397266,
+    "password": "NARUTO_CODEX_OZVS",
+    "name": "NARUTO\u30c4\u2079\u2070\u2075\u2077",
+    "account_id": "15498405445",
+    "region": "IND",
+    "access_token": "6289665a54be28a9f64b7a3b913117571db19caac540771c92c8be9af1205536",
+    "open_id": "150b4fd915d6800e50a848d3ea3f3390",
+    "generated_at": "2026-04-25T09:48:07.834493"
+  },
+  {
+    "uid": 4745397371,
+    "password": "NARUTO_CODEX_F9IT",
+    "name": "NARUTO\u30c4\u2078\u2070\u2074\u2077",
+    "account_id": "15498405877",
+    "region": "IND",
+    "access_token": "90a77a32f66d417cc0cf5cde1a1342982af3d39b7609667d7825cd8332250e11",
+    "open_id": "c0ce1327eb5c30382e879c59e38b21b8",
+    "generated_at": "2026-04-25T09:48:10.657522"
+  },
+  {
+    "uid": 4745397468,
+    "password": "NARUTO_CODEX_LUH3",
+    "name": "NARUTO\u30c4\u2077\u00b9\u2079\u00b2",
+    "account_id": "15498406272",
+    "region": "IND",
+    "access_token": "9fc74e830ffb4e330f50d152395a490bf402d7c932b09e6f28a3875ebb25d521",
+    "open_id": "dda564037c2c9da5c6468c64126231e3",
+    "generated_at": "2026-04-25T09:48:13.144760"
+  },
+  {
+    "uid": 4745397546,
+    "password": "NARUTO_CODEX_Z6KT",
+    "name": "NARUTO\u30c4\u2070\u00b3\u2075\u2077",
+    "account_id": "15498406698",
+    "region": "IND",
+    "access_token": "a625b30f9b4bcb06e9a0d6e7d9a67105f3c5ce36e4b1a987bce1f06e36e3dbfb",
+    "open_id": "70521c70ab58e922869a89999df9075e",
+    "generated_at": "2026-04-25T09:48:16.027830"
+  },
+  {
+    "uid": 4745397632,
+    "password": "NARUTO_CODEX_B6HT",
+    "name": "NARUTO\u30c4\u00b2\u00b2\u2070\u00b9",
+    "account_id": "15498407115",
+    "region": "IND",
+    "access_token": "4a1ce5259ddd69b9c01c4d5f0ca5f116b3b87e5a1f772420cb3b3de9d80c2461",
+    "open_id": "fd25f906f527d93ff402c87ef4b5531e",
+    "generated_at": "2026-04-25T09:48:18.711579"
+  },
+  {
+    "uid": 4745397701,
+    "password": "NARUTO_CODEX_A5VF",
+    "name": "NARUTO\u30c4\u2075\u00b3\u2078\u2077",
+    "account_id": "15498407525",
+    "region": "IND",
+    "access_token": "eb438d08072d179feded1adfca9dd5261c139cd8c8ca51fa7ac75617bc96b935",
+    "open_id": "95d00db8dab2356af93bcce0b4b2b3d7",
+    "generated_at": "2026-04-25T09:48:21.370191"
+  },
+  {
+    "uid": 4745397770,
+    "password": "NARUTO_CODEX_0HW7",
+    "name": "NARUTO\u30c4\u2070\u2074\u2074\u2070",
+    "account_id": "15498407982",
+    "region": "IND",
+    "access_token": "528c1cd2040bb34301e972dd100fd715e256d7a571305bed1704c3ff25af8c83",
+    "open_id": "b225eb59b0245fcccd20384aaed1b91e",
+    "generated_at": "2026-04-25T09:48:24.203179"
+  },
+  {
+    "uid": 4745397848,
+    "password": "NARUTO_CODEX_2YP8",
+    "name": "NARUTO\u30c4\u00b9\u2078\u2077\u2078",
+    "account_id": "15498408346",
+    "region": "IND",
+    "access_token": "c0b3e5a791b06c58ebb132e6f6deabb873dacf9488433837007cbadef0205440",
+    "open_id": "8ca0f600f04f20e3518d7cc388ffa0ec",
+    "generated_at": "2026-04-25T09:48:26.874711"
+  },
+  {
+    "uid": 4745397927,
+    "password": "NARUTO_CODEX_8GRU",
+    "name": "NARUTO\u30c4\u00b9\u2077\u2078\u2079",
+    "account_id": "15498408702",
+    "region": "IND",
+    "access_token": "86281238e291adedcfd1a15f5aca418073a584c6469c78399ca314c8edeb8ae4",
+    "open_id": "7d59436b673d7e3d6b94bb962ac3dac1",
+    "generated_at": "2026-04-25T09:48:29.671313"
+  },
+  {
+    "uid": 4745398008,
+    "password": "NARUTO_CODEX_EC7V",
+    "name": "NARUTO\u30c4\u2075\u2078\u2077\u2076",
+    "account_id": "15498409152",
+    "region": "IND",
+    "access_token": "e50703b632fd878e5f429951d2f52f44fbacb15c7e3d1f45539f39027b3af073",
+    "open_id": "a780677ff24e2c69846edc33bc0b1bb5",
+    "generated_at": "2026-04-25T09:48:32.900743"
+  },
+  {
+    "uid": 4745398097,
+    "password": "NARUTO_CODEX_24TU",
+    "name": "NARUTO\u30c4\u2074\u2074\u2078\u2077",
+    "account_id": "15498409537",
+    "region": "IND",
+    "access_token": "950e44aa66302c874384e91be8278b83a0a017e9bd1c873f97ea1e131fbb853c",
+    "open_id": "c3d6030b2a73096ea8877121509b7db8",
+    "generated_at": "2026-04-25T09:48:35.636475"
+  },
+  {
+    "uid": 4745398194,
+    "password": "NARUTO_CODEX_AQDG",
+    "name": "NARUTO\u30c4\u2076\u2070\u2077\u2078",
+    "account_id": "15498409939",
+    "region": "IND",
+    "access_token": "2b61df0d3c621d12c504c47c37ea4ce34e36e41d155ef6e6e7858c5fafd70cca",
+    "open_id": "7ad0080cbdc669b47bc46272a0e57987",
+    "generated_at": "2026-04-25T09:48:38.416091"
+  },
+  {
+    "uid": 4745398266,
+    "password": "NARUTO_CODEX_VAGT",
+    "name": "NARUTO\u30c4\u2074\u2075\u2076\u2078",
+    "account_id": "15498410362",
+    "region": "IND",
+    "access_token": "f5adc9f9722b7a42da2d3386e8f50b51e8581c3cf6117d2963b6bc2ec92523f4",
+    "open_id": "495050a6aa67525ea6cb4f5bd8068a52",
+    "generated_at": "2026-04-25T09:48:41.104495"
+  },
+  {
+    "uid": 4745398350,
+    "password": "NARUTO_CODEX_C2UW",
+    "name": "NARUTO\u30c4\u2076\u00b3\u2074\u2074",
+    "account_id": "15498410740",
+    "region": "IND",
+    "access_token": "0b9cf2711576b7914d6618490842b29e0acdb9c27b08a26a22e65887d9136bdf",
+    "open_id": "f41c4e300ebdfb37e20927a532c4ddf8",
+    "generated_at": "2026-04-25T09:48:43.772823"
+  },
+  {
+    "uid": 4745398510,
+    "password": "NARUTO_CODEX_7E9X",
+    "name": "NARUTO\u30c4\u00b2\u2076\u2075\u00b2",
+    "account_id": "15498411808",
+    "region": "IND",
+    "access_token": "41d1099833d766af0153f20cd5363f54132aa70a8150b39247a2798926b48bee",
+    "open_id": "9bf3e5c4ccf84e4e295268c7d56841de",
+    "generated_at": "2026-04-25T09:48:50.427148"
+  },
+  {
+    "uid": 4745398674,
+    "password": "NARUTO_CODEX_RFXM",
+    "name": "NARUTO\u30c4\u00b2\u2076\u2074\u2075",
+    "account_id": "15498412523",
+    "region": "IND",
+    "access_token": "684851d64c620365ae0bc5ef1fc4ab725e01e802b9a5e9980a3128760e6185d2",
+    "open_id": "690d4572cb9e53c26a2925896b917fd0",
+    "generated_at": "2026-04-25T09:48:54.609931"
+  },
+  {
+    "uid": 4745398793,
+    "password": "NARUTO_CODEX_D5HU",
+    "name": "NARUTO\u30c4\u00b9\u2074\u2075\u00b3",
+    "account_id": "15498413099",
+    "region": "IND",
+    "access_token": "596d69b01553eed36585f44b7f6963f2cf8aa6f06488597fb70c2ce9305feaf4",
+    "open_id": "acc065c8989118076ef1f389f23efb43",
+    "generated_at": "2026-04-25T09:48:58.207711"
+  },
+  {
+    "uid": 4745398758,
+    "password": "NARUTO_CODEX_O932",
+    "name": "NARUTO\u30c4\u2079\u2074\u2075\u2076",
+    "account_id": "15498412952",
+    "region": "IND",
+    "access_token": "9b74e3941bf87c61e32fc907ae64a604da531c95209be763aa8c92ba6dbcc41b",
+    "open_id": "3c5779b1fabb340838442ddd24ee554f",
+    "generated_at": "2026-04-25T09:48:58.223506"
+  },
+  {
+    "uid": 4745398855,
+    "password": "NARUTO_CODEX_D7MP",
+    "name": "NARUTO\u30c4\u2078\u00b9\u2074\u2077",
+    "account_id": "15498413634",
+    "region": "IND",
+    "access_token": "78c18145bdf04fda0482dcd908959fdb6f9cbf74f3d4ada8f3c784d7ca900473",
+    "open_id": "fefa6469e94fb95ed55bd2905dafa131",
+    "generated_at": "2026-04-25T09:49:00.707019"
+  },
+  {
+    "uid": 4745399355,
+    "password": "NARUTO_CODEX_OB1N",
+    "name": "NARUTO\u30c4\u00b2\u2075\u2079\u2074",
+    "account_id": "15498414353",
+    "region": "IND",
+    "access_token": "be39fa91cebef12680142d0a778bc496fee93b39459ebde2cb27af3cc7ee8482",
+    "open_id": "1d6d5bc541a69681437bcab644169cd4",
+    "generated_at": "2026-04-25T09:49:03.632942"
+  },
+  {
+    "uid": 4745399493,
+    "password": "NARUTO_CODEX_GVNM",
+    "name": "NARUTO\u30c4\u2070\u2075\u2075\u2075",
+    "account_id": "15498414786",
+    "region": "IND",
+    "access_token": "e358881335a221edef609794936691738526a165b24e058a39b7314b31b2e2df",
+    "open_id": "50afd3f0cc8f65af3b624829b53c5c23",
+    "generated_at": "2026-04-25T09:49:06.604393"
+  },
+  {
+    "uid": 4745399578,
+    "password": "NARUTO_CODEX_QDK9",
+    "name": "NARUTO\u30c4\u2079\u2074\u2079\u00b3",
+    "account_id": "15498415299",
+    "region": "IND",
+    "access_token": "f66c1b3aeeeec4c2dd820d8d060d5240effb5420328f748f2306b536464481e6",
+    "open_id": "0daf87ac24efe507b19839fbbb87037a",
+    "generated_at": "2026-04-25T09:49:09.298314"
+  },
+  {
+    "uid": 4745399657,
+    "password": "NARUTO_CODEX_OM2I",
+    "name": "NARUTO\u30c4\u00b2\u2074\u2070\u2077",
+    "account_id": "15498415707",
+    "region": "IND",
+    "access_token": "356d62a334228c799017991799081056e67ab01e5dfa945a8f11c88b2114724a",
+    "open_id": "724d84ae13623e8e069b2defaf6c4e02",
+    "generated_at": "2026-04-25T09:49:11.831319"
+  },
+  {
+    "uid": 4745399780,
+    "password": "NARUTO_CODEX_YO27",
+    "name": "NARUTO\u30c4\u2077\u00b9\u2078\u2070",
+    "account_id": "15498416504",
+    "region": "IND",
+    "access_token": "4c9eacea8929bc10b95300304451bc0408a8189533a0deb8301640b5b1533f6e",
+    "open_id": "8441ad6df2a8f39905aabfd7d5d4b63d",
+    "generated_at": "2026-04-25T09:49:16.580301"
+  },
+  {
+    "uid": 4745399782,
+    "password": "NARUTO_CODEX_U93O",
+    "name": "NARUTO\u30c4\u00b9\u00b3\u00b2\u00b2",
+    "account_id": "15498416498",
+    "region": "IND",
+    "access_token": "b389845f7e314d2193ef07db83f7144d918eaa1b6cf7c9545d503b871656e67b",
+    "open_id": "3534031eebb7d8a92cb3c73f6b5593dc",
+    "generated_at": "2026-04-25T09:49:16.635549"
+  },
+  {
+    "uid": 4745399943,
+    "password": "NARUTO_CODEX_HTZ1",
+    "name": "NARUTO\u30c4\u2070\u2075\u2070\u2070",
+    "account_id": "15498417308",
+    "region": "IND",
+    "access_token": "8a87b4a9876e6c5623f6f3d5cceceda7a63dca556cb1c8516859ceb36ea04d9f",
+    "open_id": "2b1981b3fcf9d347289267566b9a8abf",
+    "generated_at": "2026-04-25T09:49:21.649744"
+  },
+  {
+    "uid": 4745400055,
+    "password": "NARUTO_CODEX_JZPS",
+    "name": "NARUTO\u30c4\u2079\u2075\u2074\u2079",
+    "account_id": "15498418036",
+    "region": "IND",
+    "access_token": "4215ca180a9e6b4a6bd6baaa277ff4335be04ad2e5ebe463352eda09c1b74d8b",
+    "open_id": "a092f0ed3a3db2027723a9d796f4df45",
+    "generated_at": "2026-04-25T09:49:26.310630"
+  },
+  {
+    "uid": 4745400117,
+    "password": "NARUTO_CODEX_A634",
+    "name": "NARUTO\u30c4\u00b9\u2078\u2077\u2074",
+    "account_id": "15498418400",
+    "region": "IND",
+    "access_token": "596dad0a2138901fb3215220c817c029ce5df229401e61d5544c54f8d4d2c95d",
+    "open_id": "8eb5c66c765f9b2a744e29da956dd914",
+    "generated_at": "2026-04-25T09:49:28.675549"
+  },
+  {
+    "uid": 4745400317,
+    "password": "NARUTO_CODEX_AZ41",
+    "name": "NARUTO\u30c4\u2077\u00b9\u00b9\u2077",
+    "account_id": "15498419412",
+    "region": "IND",
+    "access_token": "a5f51ffa0af896c1bd1b890f10b1ef03c3a1fdf16c17fb94531f614c84f14ee0",
+    "open_id": "bed2ffa1b2cfedb66264858fad6990eb",
+    "generated_at": "2026-04-25T09:49:35.097302"
+  },
+  {
+    "uid": 4745400410,
+    "password": "NARUTO_CODEX_C49P",
+    "name": "NARUTO\u30c4\u2079\u00b3\u00b9\u2076",
+    "account_id": "15498419780",
+    "region": "IND",
+    "access_token": "190abadbf9c271ddcae1c3334846e931503aa2d37e2024f6583975a9b1335913",
+    "open_id": "d127f7afb6c8ab9cb62f2d07ca5a27cc",
+    "generated_at": "2026-04-25T09:49:37.706154"
+  },
+  {
+    "uid": 4745400523,
+    "password": "NARUTO_CODEX_8CLV",
+    "name": "NARUTO\u30c4\u2078\u00b9\u2076\u2070",
+    "account_id": "15498420367",
+    "region": "IND",
+    "access_token": "f5103a1b31df3af553462a67acdfe4c99cdb1ccd373f3e1e30497fdf8f57ee54",
+    "open_id": "161a9f58cb6ba4af821e554a9449cc4f",
+    "generated_at": "2026-04-25T09:49:41.607395"
+  },
+  {
+    "uid": 4745400489,
+    "password": "NARUTO_CODEX_W19L",
+    "name": "NARUTO\u30c4\u2074\u2078\u00b9\u2078",
+    "account_id": "15498420159",
+    "region": "IND",
+    "access_token": "aa036f8012679f189204912988843dc994edbac090c802bf72cb7514f02629f0",
+    "open_id": "904436752d5b84cb00d82d9e7768791c",
+    "generated_at": "2026-04-25T09:49:41.628991"
+  },
+  {
+    "uid": 4745400762,
+    "password": "NARUTO_CODEX_VLIA",
+    "name": "NARUTO\u30c4\u00b2\u2077\u2078\u2078",
+    "account_id": "15498421620",
+    "region": "IND",
+    "access_token": "d82c5f899a2ee85806d6c8ed96e644df23596573bdfaec6b7fd1597cbf5203b9",
+    "open_id": "4cc548b48c908654072f46917e52b8e6",
+    "generated_at": "2026-04-25T09:49:49.504092"
+  },
+  {
+    "uid": 4745400826,
+    "password": "NARUTO_CODEX_G26X",
+    "name": "NARUTO\u30c4\u2079\u2077\u2074\u00b2",
+    "account_id": "15498421845",
+    "region": "IND",
+    "access_token": "92bcc61485498a43ad166b501e659fbaf6863e19c1adf8f5f7b51fa32515fd05",
+    "open_id": "d3e7d229880cd2acb69304438db1ea22",
+    "generated_at": "2026-04-25T09:49:50.979216"
+  },
+  {
+    "uid": 4745400873,
+    "password": "NARUTO_CODEX_ZMIF",
+    "name": "NARUTO\u30c4\u00b2\u2076\u00b2\u00b2",
+    "account_id": "15498422186",
+    "region": "IND",
+    "access_token": "2a7e2de4b0be1347560df24ece8046f4eba955a28a146cca29c3da696b9d0b11",
+    "open_id": "08c2cd5da951321cc24acc1f17d028fa",
+    "generated_at": "2026-04-25T09:49:53.049754"
+  },
+  {
+    "uid": 4745400889,
+    "password": "NARUTO_CODEX_V6U4",
+    "name": "NARUTO\u30c4\u2077\u00b9\u2076\u2076",
+    "account_id": "15498422173",
+    "region": "IND",
+    "access_token": "3631ba6edde87c1427cd6729a73f512e2bbdf73f3e55ded2910e4bd147ebd864",
+    "open_id": "3d50dadca6df54114a3ed985eec8597c",
+    "generated_at": "2026-04-25T09:49:53.075597"
+  },
+  {
+    "uid": 4745400888,
+    "password": "NARUTO_CODEX_YYWY",
+    "name": "NARUTO\u30c4\u00b2\u2077\u2077\u2079",
+    "account_id": "15498422179",
+    "region": "IND",
+    "access_token": "6ab0a50cae18531b3c399c7c2bbd92ea79eec8e2498b3210e771394a36c04a55",
+    "open_id": "c9e9afbfa02f100f57c485ce90842d77",
+    "generated_at": "2026-04-25T09:49:53.102381"
+  },
+  {
+    "uid": 4745400986,
+    "password": "NARUTO_CODEX_XV6C",
+    "name": "NARUTO\u30c4\u00b2\u2075\u2074\u00b9",
+    "account_id": "15498422614",
+    "region": "IND",
+    "access_token": "47aae6951148521da0a22f048834e93e48741285a7dfa0136f50a0c4817228c2",
+    "open_id": "43771a2695fc28ebd3ba49f1c4750e90",
+    "generated_at": "2026-04-25T09:49:55.758587"
+  },
+  {
+    "uid": 4745401103,
+    "password": "NARUTO_CODEX_4OHR",
+    "name": "NARUTO\u30c4\u2078\u2079\u2070\u00b9",
+    "account_id": "15498423109",
+    "region": "IND",
+    "access_token": "21ff79f548d39a504f95a76d7c7228f7715c95fad2d904575970b5fd8b5dd6df",
+    "open_id": "62d69b04be2440a83ff3738cc41088e9",
+    "generated_at": "2026-04-25T09:49:58.948621"
+  },
+  {
+    "uid": 4745401776,
+    "password": "NARUTO_CODEX_OVFH",
+    "name": "NARUTO\u30c4\u2075\u2070\u2077\u2076",
+    "account_id": "15498424730",
+    "region": "IND",
+    "access_token": "6a9ecac0a80d262ea8203757f3e396d191897fb657a47b21782070277f530442",
+    "open_id": "889b80ad863df7c7bca62f658bb7b5b2",
+    "generated_at": "2026-04-25T09:50:07.167413"
+  },
+  {
+    "uid": 4745401876,
+    "password": "NARUTO_CODEX_EX7U",
+    "name": "NARUTO\u30c4\u00b3\u2070\u2077\u00b9",
+    "account_id": "15498425161",
+    "region": "IND",
+    "access_token": "df94e522adb0a35c2b7fa2b047bb2903121c36030e73a661d521fc6caed1e801",
+    "open_id": "2c2b59e6fc4df046dfd3456ba28ab99f",
+    "generated_at": "2026-04-25T09:50:10.317936"
+  },
+  {
+    "uid": 4745401873,
+    "password": "NARUTO_CODEX_VTVZ",
+    "name": "NARUTO\u30c4\u2076\u2070\u2075\u2070",
+    "account_id": "15498425141",
+    "region": "IND",
+    "access_token": "49d35638608570c16aab0e9f68d41cc399080b064fb20f31287c796b9b428f69",
+    "open_id": "9f40f4aef67cfd82efd901a8ab527b5d",
+    "generated_at": "2026-04-25T09:50:10.358317"
+  },
+  {
+    "uid": 4745401902,
+    "password": "NARUTO_CODEX_A1XM",
+    "name": "NARUTO\u30c4\u2070\u2078\u00b9\u2079",
+    "account_id": "15498425214",
+    "region": "IND",
+    "access_token": "165d91a143d3785074759b74f8e4ee1c347a7f4172de5ec2aaad697fb70cbc7e",
+    "open_id": "34e4f2e391014b8ee05880de3d3f86fc",
+    "generated_at": "2026-04-25T09:50:10.755464"
+  },
+  {
+    "uid": 4745401874,
+    "password": "NARUTO_CODEX_92Y6",
+    "name": "NARUTO\u30c4\u2079\u00b9\u2070\u2070",
+    "account_id": "15498425299",
+    "region": "IND",
+    "access_token": "d99de35e060397ef63a3729fb520c386af29f7245a41c2495fc6b4d3c67e2b8f",
+    "open_id": "41b0c3bbde3063124879a0fd327448a9",
+    "generated_at": "2026-04-25T09:50:11.204263"
+  },
+  {
+    "uid": 4745402070,
+    "password": "NARUTO_CODEX_YRDF",
+    "name": "NARUTO\u30c4\u2078\u2074\u2077\u2079",
+    "account_id": "15498426156",
+    "region": "IND",
+    "access_token": "1a34c847c77c8cbef7f94ac3f0aadab255995e54d795a2c1854dcca66e020d2d",
+    "open_id": "f87507fcd72c0210013bb410cab073a6",
+    "generated_at": "2026-04-25T09:50:16.927163"
+  },
+  {
+    "uid": 4745402254,
+    "password": "NARUTO_CODEX_AUTN",
+    "name": "NARUTO\u30c4\u2078\u2079\u00b2\u2079",
+    "account_id": "15498426879",
+    "region": "IND",
+    "access_token": "d373bcb2442deff85d4f2f7bf61b4fe7c7f259b5509b528dc4aa06984c12af8e",
+    "open_id": "a70f7f9a627d7e962b55d97ce721e18a",
+    "generated_at": "2026-04-25T09:50:21.773384"
+  },
+  {
+    "uid": 4745402253,
+    "password": "NARUTO_CODEX_SHVR",
+    "name": "NARUTO\u30c4\u2079\u2076\u2078\u2076",
+    "account_id": "15498426878",
+    "region": "IND",
+    "access_token": "8c05b5c297dd1eea46207b94a5711d7caf4e803f54962fa1aba8d07e645a9a5a",
+    "open_id": "cccce05cb7f4d1026d426111bd23d0c9",
+    "generated_at": "2026-04-25T09:50:21.804747"
+  },
+  {
+    "uid": 4745402306,
+    "password": "NARUTO_CODEX_51BJ",
+    "name": "NARUTO\u30c4\u2076\u2079\u2078\u2070",
+    "account_id": "15498427169",
+    "region": "IND",
+    "access_token": "6317b6d659fc1db71902849ba87a7dc7fb3bed059a0af2dc79f935b4ea6d9f86",
+    "open_id": "3978018ed6e0aec4fed5ee1c1adc6a71",
+    "generated_at": "2026-04-25T09:50:23.568042"
+  },
+  {
+    "uid": 4745402451,
+    "password": "NARUTO_CODEX_40B0",
+    "name": "NARUTO\u30c4\u2076\u2074\u2078\u2076",
+    "account_id": "15498427977",
+    "region": "IND",
+    "access_token": "719a2be6ab1873003b33127265f1c7bcf292013707a448f03e7ac766c67f095f",
+    "open_id": "1656535e7fd377ecb318d12934de5296",
+    "generated_at": "2026-04-25T09:50:28.631544"
+  },
+  {
+    "uid": 4745402606,
+    "password": "NARUTO_CODEX_WNNL",
+    "name": "NARUTO\u30c4\u2076\u2076\u00b9\u2079",
+    "account_id": "15498428698",
+    "region": "IND",
+    "access_token": "b0ae48f810ef4ef7288583ba53c20a1bb342a932d21dde141356d8415e46f6dd",
+    "open_id": "17d225732243c002a832449f3003e386",
+    "generated_at": "2026-04-25T09:50:33.380476"
+  },
+  {
+    "uid": 4745402609,
+    "password": "NARUTO_CODEX_26TP",
+    "name": "NARUTO\u30c4\u2076\u2079\u2076\u2075",
+    "account_id": "15498428701",
+    "region": "IND",
+    "access_token": "43c2d6e4990d254a161a664189bf6f02a8151f3ec4249a6ab2f9c161e9cf3f4d",
+    "open_id": "2babb4be70e4442b294ad8581f5a848e",
+    "generated_at": "2026-04-25T09:50:33.439793"
+  },
+  {
+    "uid": 4745402787,
+    "password": "NARUTO_CODEX_HEC5",
+    "name": "NARUTO\u30c4\u2077\u2070\u2077\u2070",
+    "account_id": "15498429411",
+    "region": "IND",
+    "access_token": "1415771ff97155ed33319ea19d975ff42a18a3058e156dc8c7be0eda0b06dc79",
+    "open_id": "9ca4b3d95b402d0e0b9badf17466079d",
+    "generated_at": "2026-04-25T09:50:37.731622"
+  },
+  {
+    "uid": 4745402826,
+    "password": "NARUTO_CODEX_AIHZ",
+    "name": "NARUTO\u30c4\u2076\u2075\u2077\u2077",
+    "account_id": "15498429616",
+    "region": "IND",
+    "access_token": "60fc30b34d19b78137962c76d6f8ec790038ba0840e8e45fae14c0ed51237cc2",
+    "open_id": "f923ee0f97bd8a9cc5c434ca059dc7c4",
+    "generated_at": "2026-04-25T09:50:38.816548"
+  },
+  {
+    "uid": 4745402852,
+    "password": "NARUTO_CODEX_QNS7",
+    "name": "NARUTO\u30c4\u2070\u2077\u2077\u00b2",
+    "account_id": "15498429901",
+    "region": "IND",
+    "access_token": "76bd6b8ba618749ae2e63adf5dbc824b750a4bf63d1f91d91cd1fa10502349f2",
+    "open_id": "901db79c8dfdf4a119fae4247c66b52a",
+    "generated_at": "2026-04-25T09:50:40.687074"
+  },
+  {
+    "uid": 4745402986,
+    "password": "NARUTO_CODEX_X6P5",
+    "name": "NARUTO\u30c4\u2076\u2070\u2079\u2079",
+    "account_id": "15498430540",
+    "region": "IND",
+    "access_token": "af865971b3a14e2b261673a86afe7c2bb8c03733dfe73a05f0dd061f286755fe",
+    "open_id": "061c58b00cf11cf3327d63c76f5112d7",
+    "generated_at": "2026-04-25T09:50:44.804340"
+  },
+  {
+    "uid": 4745403036,
+    "password": "NARUTO_CODEX_9FYF",
+    "name": "NARUTO\u30c4\u2074\u2079\u2079\u2076",
+    "account_id": "15498430921",
+    "region": "IND",
+    "access_token": "65685536ffbcc2aa071c5356b81d2817fffdc1ffa63ac13d4ad3203f9b69a8bd",
+    "open_id": "c861255479d75a0ad3c7e53cb074a96e",
+    "generated_at": "2026-04-25T09:50:47.270745"
+  },
+  {
+    "uid": 4745403258,
+    "password": "NARUTO_CODEX_HQBC",
+    "name": "NARUTO\u30c4\u00b9\u00b3\u00b3\u2079",
+    "account_id": "15498431872",
+    "region": "IND",
+    "access_token": "2d75a997f439e75f41897e35bbb954ca4c5861780082c9d204bc7e130ffb13f6",
+    "open_id": "de0ca45ddbe6aa63a88581f71eac59a6",
+    "generated_at": "2026-04-25T09:50:54.735276"
+  },
+  {
+    "uid": 4745403381,
+    "password": "NARUTO_CODEX_IR25",
+    "name": "NARUTO\u30c4\u2076\u2074\u2076\u2070",
+    "account_id": "15498432445",
+    "region": "IND",
+    "access_token": "b48d87718d145137f83c557f1ebd0d0323dfe74eb303697c501a4872c31ac3f0",
+    "open_id": "b386e7ed2fbf48013fd68e04354a4b9f",
+    "generated_at": "2026-04-25T09:50:57.395199"
+  },
+  {
+    "uid": 4745403380,
+    "password": "NARUTO_CODEX_31A0",
+    "name": "NARUTO\u30c4\u2074\u2074\u00b9\u00b2",
+    "account_id": "15498432446",
+    "region": "IND",
+    "access_token": "a38ddc40fb14e6f907244977f05111ee921561b666c98c798f6cbecf09bd4b62",
+    "open_id": "f1e2207236634cc8b2fed46664d6bb1a",
+    "generated_at": "2026-04-25T09:50:57.429777"
+  },
+  {
+    "uid": 4745404056,
+    "password": "NARUTO_CODEX_0KX1",
+    "name": "NARUTO\u30c4\u2079\u2078\u00b3\u2074",
+    "account_id": "15498434291",
+    "region": "IND",
+    "access_token": "ba35b966a808fd99ade2bd894ad99c54e1f70821a21e175aed987706c4aafe4d",
+    "open_id": "66c3162fe7a25ec1258796be9b44ec78",
+    "generated_at": "2026-04-25T09:51:06.350735"
+  },
+  {
+    "uid": 4745404187,
+    "password": "NARUTO_CODEX_15A8",
+    "name": "NARUTO\u30c4\u00b3\u2070\u2074\u00b2",
+    "account_id": "15498434527",
+    "region": "IND",
+    "access_token": "3813f30945641b5a8fad372289ce61e016a917fba49e3553931b9629937dc3aa",
+    "open_id": "fdc1581571d9512fd79b18d467417856",
+    "generated_at": "2026-04-25T09:51:07.752468"
+  },
+  {
+    "uid": 4745404253,
+    "password": "NARUTO_CODEX_YM2A",
+    "name": "NARUTO\u30c4\u2076\u00b3\u2070\u2074",
+    "account_id": "15498434750",
+    "region": "IND",
+    "access_token": "be36e2e0b2b8b807f2b8e489fcd4c3bf30fc596eaa321740b51a958bbd82509b",
+    "open_id": "38d0de5a94cb09b8986cd94c7622bc09",
+    "generated_at": "2026-04-25T09:51:09.213196"
+  },
+  {
+    "uid": 4745404341,
+    "password": "NARUTO_CODEX_IIRD",
+    "name": "NARUTO\u30c4\u2075\u2079\u2076\u2070",
+    "account_id": "15498435174",
+    "region": "IND",
+    "access_token": "4f1f933630d4bac2e4dde58402b75721ff294f25c0f627745c79065f6e024f51",
+    "open_id": "e6a52c036d7a51c1e17790e09ca26806",
+    "generated_at": "2026-04-25T09:51:11.975863"
+  },
+  {
+    "uid": 4745404347,
+    "password": "NARUTO_CODEX_AG4W",
+    "name": "NARUTO\u30c4\u2070\u00b3\u2075\u2075",
+    "account_id": "15498435125",
+    "region": "IND",
+    "access_token": "cb3e4830850388e1f9e5414e47bbb47c45cbc6c2aac1b9de32b1b13be37c9b6a",
+    "open_id": "9e6a4ef436d2103c9fcb9415563cf40a",
+    "generated_at": "2026-04-25T09:51:12.012068"
+  },
+  {
+    "uid": 4745404467,
+    "password": "NARUTO_CODEX_HEOA",
+    "name": "NARUTO\u30c4\u2070\u2077\u2074\u2078",
+    "account_id": "15498435660",
+    "region": "IND",
+    "access_token": "06714797f2f12efae863a4fceda2a5ab3f0facf3d030709f1bb52ae6020eae0e",
+    "open_id": "efc45cb6e8f2e071ad474778e9dc576f",
+    "generated_at": "2026-04-25T09:51:15.122574"
+  },
+  {
+    "uid": 4745404578,
+    "password": "NARUTO_CODEX_7R4R",
+    "name": "NARUTO\u30c4\u2075\u00b9\u2078\u2077",
+    "account_id": "15498436438",
+    "region": "IND",
+    "access_token": "9f92055719bcaf5d0552cba639907abdc8a3f86b278c657571c02082b3a4c189",
+    "open_id": "d20c5d6add62f32f5f6e39a4477afec9",
+    "generated_at": "2026-04-25T09:51:20.007533"
+  },
+  {
+    "uid": 4745404588,
+    "password": "NARUTO_CODEX_2JGF",
+    "name": "NARUTO\u30c4\u2075\u2078\u2077\u2079",
+    "account_id": "15498436509",
+    "region": "IND",
+    "access_token": "0a792d6c28e869c002152484d68ce1d0d5d453c322cc46267192d8a1520b79ed",
+    "open_id": "e44f08157b8be892e5186d71b4892f2c",
+    "generated_at": "2026-04-25T09:51:20.464030"
+  },
+  {
+    "uid": 4745404686,
+    "password": "NARUTO_CODEX_G5BL",
+    "name": "NARUTO\u30c4\u2070\u2075\u2076\u2079",
+    "account_id": "15498436915",
+    "region": "IND",
+    "access_token": "f0e36d79da74463b09e9afca4a53252ca54eba843b772fa676b7e6131fb8ed46",
+    "open_id": "59df4b01ca82eb9032c69944d4d973cc",
+    "generated_at": "2026-04-25T09:51:23.215310"
+  },
+  {
+    "uid": 4745405009,
+    "password": "NARUTO_CODEX_FA6N",
+    "name": "NARUTO\u30c4\u00b2\u2074\u2075\u00b9",
+    "account_id": "15498438434",
+    "region": "IND",
+    "access_token": "cb6a46b460d8a4cc3bf4b7b952174191c876c15ab5550da671ef3102e617a931",
+    "open_id": "d9d01d8d35b78de3fa89938bc9a02f52",
+    "generated_at": "2026-04-25T09:51:33.397482"
+  },
+  {
+    "uid": 4745405112,
+    "password": "NARUTO_CODEX_GJ01",
+    "name": "NARUTO\u30c4\u2077\u2075\u2079\u2075",
+    "account_id": "15498438974",
+    "region": "IND",
+    "access_token": "1667d952d0ec99b91d3520ec841f1ca8509d4433358e6cc53d972d8bcc425310",
+    "open_id": "6eacdd433bdb6fd36176caa29230db72",
+    "generated_at": "2026-04-25T09:51:36.823053"
+  },
+  {
+    "uid": 4745405121,
+    "password": "NARUTO_CODEX_VLQZ",
+    "name": "NARUTO\u30c4\u2079\u00b3\u00b3\u00b3",
+    "account_id": "15498438998",
+    "region": "IND",
+    "access_token": "196972b2cb5e9299e7dc513674472e0fb6bd2378c1108e16ff5fe2402f6fe9e4",
+    "open_id": "7c3b1b57b755f830367ee31e2bbb487b",
+    "generated_at": "2026-04-25T09:51:36.912389"
+  },
+  {
+    "uid": 4745405282,
+    "password": "NARUTO_CODEX_NMN2",
+    "name": "NARUTO\u30c4\u2075\u2079\u00b9\u2079",
+    "account_id": "15498439898",
+    "region": "IND",
+    "access_token": "acd37392ddb11a159a703d7a10896c232c01751f4d19ae473ad9193314899e21",
+    "open_id": "757976a5575020725f5cb71fac8e6d0b",
+    "generated_at": "2026-04-25T09:51:42.088121"
+  },
+  {
+    "uid": 4745405301,
+    "password": "NARUTO_CODEX_S6UT",
+    "name": "NARUTO\u30c4\u2078\u2079\u00b2\u00b2",
+    "account_id": "15498440068",
+    "region": "IND",
+    "access_token": "cb5a9c203c338c521b11a8622f9412f0f14a0f1a69e9f30012ad19e28a853ed3",
+    "open_id": "73f018ae7edd4c062021cd8be52ef2f6",
+    "generated_at": "2026-04-25T09:51:43.102062"
+  },
+  {
+    "uid": 4745405507,
+    "password": "NARUTO_CODEX_KWNT",
+    "name": "NARUTO\u30c4\u2076\u2079\u00b3\u2075",
+    "account_id": "15498441228",
+    "region": "IND",
+    "access_token": "e1538e9f8c93c144c3242c121e4d4a10c372607465e11b3ec0945395dacce581",
+    "open_id": "1642b4b443990d64edd7e0c8adb6bcea",
+    "generated_at": "2026-04-25T09:51:50.113259"
+  },
+  {
+    "uid": 4745405532,
+    "password": "NARUTO_CODEX_X2U9",
+    "name": "NARUTO\u30c4\u2074\u2079\u2078\u00b9",
+    "account_id": "15498441300",
+    "region": "IND",
+    "access_token": "4ae2876946096fba6bbf533db36e57babe26b18ff00a7b11f36e0e8ceea51151",
+    "open_id": "397eba63244f5c723ca4afc877566c07",
+    "generated_at": "2026-04-25T09:51:50.828502"
+  },
+  {
+    "uid": 4745405694,
+    "password": "NARUTO_CODEX_JJUE",
+    "name": "NARUTO\u30c4\u2075\u2070\u2079\u2075",
+    "account_id": "15498442085",
+    "region": "IND",
+    "access_token": "4a1665d382470208224d0c6a5ace9f2b32c4f234b0645f746a882136d8cbd4b8",
+    "open_id": "de80eab152792f36e53d6b5dd703bafe",
+    "generated_at": "2026-04-25T09:51:56.165124"
+  },
+  {
+    "uid": 4745405840,
+    "password": "NARUTO_CODEX_TP46",
+    "name": "NARUTO\u30c4\u2077\u2074\u2079\u2074",
+    "account_id": "15498442863",
+    "region": "IND",
+    "access_token": "fb3ab3ab5364fb658ff2d114dc001d0870010c5ff1812ceefb4a83cd44a488ec",
+    "open_id": "1f3d4f742e8e1a726f62b8748e462de4",
+    "generated_at": "2026-04-25T09:52:00.307970"
+  },
+  {
+    "uid": 4745406206,
+    "password": "NARUTO_CODEX_XV6O",
+    "name": "NARUTO\u30c4\u00b3\u00b3\u2078\u00b2",
+    "account_id": "15498443465",
+    "region": "IND",
+    "access_token": "a1ef5cb94a3ed449c751ddbd1ae9d86f30ecc691a151ccfdc4feb6d351994dd1",
+    "open_id": "15ff676649899cc66234a0c6a70164e4",
+    "generated_at": "2026-04-25T09:52:03.003854"
+  },
+  {
+    "uid": 4745406209,
+    "password": "NARUTO_CODEX_2BJM",
+    "name": "NARUTO\u30c4\u00b2\u2075\u00b9\u00b2",
+    "account_id": "15498443460",
+    "region": "IND",
+    "access_token": "eeee00e461b359ad987375e440847a418ebee9f1f2d53a6e7fb79a92146c13a5",
+    "open_id": "3c7dcb1194b8c678ecf64d8bbf63d21c",
+    "generated_at": "2026-04-25T09:52:03.036457"
+  },
+  {
+    "uid": 4745406276,
+    "password": "NARUTO_CODEX_V9SG",
+    "name": "NARUTO\u30c4\u2079\u2075\u2070\u2077",
+    "account_id": "15498443628",
+    "region": "IND",
+    "access_token": "bbcc0ea06ef8e711d1af41c10291ed3f83dc89edf9b0f95284cd665a949c7450",
+    "open_id": "c957ef7c8e0c1ff107f56600476e5b4d",
+    "generated_at": "2026-04-25T09:52:03.844514"
+  },
+  {
+    "uid": 4745406561,
+    "password": "NARUTO_CODEX_CW1N",
+    "name": "NARUTO\u30c4\u2074\u00b2\u2077\u00b2",
+    "account_id": "15498444622",
+    "region": "IND",
+    "access_token": "ab4e6973bfbc161c3c2c93bcf751357df3c92415fee4b209dfd9a487f5971c4e",
+    "open_id": "a5b04d9cf14d35f0c8316647b94d8f7c",
+    "generated_at": "2026-04-25T09:52:09.883333"
+  },
+  {
+    "uid": 4745406681,
+    "password": "NARUTO_CODEX_GGRW",
+    "name": "NARUTO\u30c4\u2076\u00b2\u2076\u2076",
+    "account_id": "15498444940",
+    "region": "IND",
+    "access_token": "8260480c5719b43e8372e1964982f33191ae68eec906337185830e6099a7a5dd",
+    "open_id": "7b3674520c03997da8042e09acb96e8c",
+    "generated_at": "2026-04-25T09:52:12.430305"
+  },
+  {
+    "uid": 4745406677,
+    "password": "NARUTO_CODEX_KX5J",
+    "name": "NARUTO\u30c4\u2079\u2076\u00b9\u2078",
+    "account_id": "15498444935",
+    "region": "IND",
+    "access_token": "91673fb61de383b608bfc9aaab5aaa3dfe209dbd2e1cbed8a490966e1522899b",
+    "open_id": "29f4f04d574821f9d81732f6631a8f3a",
+    "generated_at": "2026-04-25T09:52:12.470350"
+  },
+  {
+    "uid": 4745406645,
+    "password": "NARUTO_CODEX_AF8U",
+    "name": "NARUTO\u30c4\u2074\u2078\u2077\u00b2",
+    "account_id": "15498444788",
+    "region": "IND",
+    "access_token": "09a21065e93f38cb09ab278bbb2b21edfa27d4dd754321c68f308458ef783637",
+    "open_id": "deac52671c42a799cdb27aa63cc7f903",
+    "generated_at": "2026-04-25T09:52:12.556396"
+  },
+  {
+    "uid": 4745406693,
+    "password": "NARUTO_CODEX_8A7D",
+    "name": "NARUTO\u30c4\u2075\u2076\u00b3\u2074",
+    "account_id": "15498444970",
+    "region": "IND",
+    "access_token": "7ce827a15b73ebe4624ee02c2b24a435b0c21807a8366ce29f8ec3b4e80a1a92",
+    "open_id": "8ff06cf6c353ff56ff2f8f0684cfa752",
+    "generated_at": "2026-04-25T09:52:12.588435"
+  },
+  {
+    "uid": 4745406947,
+    "password": "NARUTO_CODEX_AL14",
+    "name": "NARUTO\u30c4\u2074\u2077\u00b9\u2079",
+    "account_id": "15498446185",
+    "region": "IND",
+    "access_token": "664a0793520152fb822abd3b50d4a68ab47a8f8943568cd08e67e62a71d0b56b",
+    "open_id": "ab92b2e3c6e3f307ff33034240d9645f",
+    "generated_at": "2026-04-25T09:52:20.667625"
+  },
+  {
+    "uid": 4745406974,
+    "password": "NARUTO_CODEX_X5DE",
+    "name": "NARUTO\u30c4\u00b2\u2070\u2077\u2075",
+    "account_id": "15498446229",
+    "region": "IND",
+    "access_token": "dc61bcbab20e8e6ec2579f1fe0a0ab44fabd829e1d6a17b7263a10752ab11b91",
+    "open_id": "10dadbf6a989a27e4977b7245eda89d0",
+    "generated_at": "2026-04-25T09:52:20.993017"
+  },
+  {
+    "uid": 4745407048,
+    "password": "NARUTO_CODEX_E58I",
+    "name": "NARUTO\u30c4\u00b9\u2074\u2079\u2076",
+    "account_id": "15498446501",
+    "region": "IND",
+    "access_token": "60abb2afe5f0da6b7a64f91b56c31b421ac5107914e560f5247ff955a6dda477",
+    "open_id": "7270c31b03069cb7ec3dcc5b1745b63c",
+    "generated_at": "2026-04-25T09:52:22.822753"
+  },
+  {
+    "uid": 4745407085,
+    "password": "NARUTO_CODEX_87G6",
+    "name": "NARUTO\u30c4\u2078\u00b2\u2076\u2076",
+    "account_id": "15498446691",
+    "region": "IND",
+    "access_token": "765112b904994f5164ad3c34d0bfd566063488ea96883f910f1828c9c448a28b",
+    "open_id": "dc3462b8e66a6e83d044374091dcc597",
+    "generated_at": "2026-04-25T09:52:24.269353"
+  },
+  {
+    "uid": 4745407079,
+    "password": "NARUTO_CODEX_LVP1",
+    "name": "NARUTO\u30c4\u00b9\u2077\u2076\u2079",
+    "account_id": "15498446674",
+    "region": "IND",
+    "access_token": "cc52fae0f8beffc598749b8326005906ef33d0a6ae29ba627b09f33cab17ec04",
+    "open_id": "f8efb5abb245677d78fa9d237abf4de0",
+    "generated_at": "2026-04-25T09:52:24.315845"
+  },
+  {
+    "uid": 4745407158,
+    "password": "NARUTO_CODEX_Y874",
+    "name": "NARUTO\u30c4\u2070\u00b2\u00b9\u2078",
+    "account_id": "15498447072",
+    "region": "IND",
+    "access_token": "e2180a1258c2de096329370bffc8f7fe9f1940ff7e6d0afc9c8a66a3d580c8a5",
+    "open_id": "5b8360eb9f2564055e659b55f27f05cb",
+    "generated_at": "2026-04-25T09:52:27.053542"
+  },
+  {
+    "uid": 4745407218,
+    "password": "NARUTO_CODEX_KPN4",
+    "name": "NARUTO\u30c4\u2070\u2077\u2074\u2075",
+    "account_id": "15498447407",
+    "region": "IND",
+    "access_token": "09190cb2a565d91dcacd4b312374fea2f03e9de67e684f2e8fbd99a15800998b",
+    "open_id": "7397900fe19f8945d125bc19920199ec",
+    "generated_at": "2026-04-25T09:52:29.254772"
+  },
+  {
+    "uid": 4745407215,
+    "password": "NARUTO_CODEX_BQK0",
+    "name": "NARUTO\u30c4\u2078\u2074\u00b9\u2078",
+    "account_id": "15498447405",
+    "region": "IND",
+    "access_token": "30797b4ada069f5442199ce86210aea31a53534158334823298d5931ed48070c",
+    "open_id": "f82fead522f4f241f8d8543ca1b4e026",
+    "generated_at": "2026-04-25T09:52:29.294098"
+  },
+  {
+    "uid": 4745407322,
+    "password": "NARUTO_CODEX_NTLE",
+    "name": "NARUTO\u30c4\u2075\u2078\u2075\u00b2",
+    "account_id": "15498447910",
+    "region": "IND",
+    "access_token": "b0cf3092fd45541ab1b95babdefe65ff823fb56ae390d2913bdffcb625a24d9d",
+    "open_id": "512a9422cdf1993f40293188dcabd1c4",
+    "generated_at": "2026-04-25T09:52:32.849729"
+  },
+  {
+    "uid": 4745407520,
+    "password": "NARUTO_CODEX_JCAK",
+    "name": "NARUTO\u30c4\u00b2\u2070\u2074\u00b3",
+    "account_id": "15498448777",
+    "region": "IND",
+    "access_token": "228bd23606f5cf296a948be3e543be783a361a54db99fc27beca8d95ee0de377",
+    "open_id": "09c33c0ac65eb2e86aaedbf4b185ea55",
+    "generated_at": "2026-04-25T09:52:39.056672"
+  },
+  {
+    "uid": 4745407650,
+    "password": "NARUTO_CODEX_AL91",
+    "name": "NARUTO\u30c4\u2079\u2070\u00b3\u2070",
+    "account_id": "15498449466",
+    "region": "IND",
+    "access_token": "dc17f922f2c5d3c3c0fa059dd911e8c0537b8d2b3559644900e08dbadd6d637d",
+    "open_id": "68335c22c78abccf061ac9e89f3c5f19",
+    "generated_at": "2026-04-25T09:52:43.344145"
+  },
+  {
+    "uid": 4745407693,
+    "password": "NARUTO_CODEX_NO8G",
+    "name": "NARUTO\u30c4\u2070\u2077\u2076\u2078",
+    "account_id": "15498449710",
+    "region": "IND",
+    "access_token": "e08ee0542c20ce00fa9384554eb3d1dd7f16c0dbcff56137caea513bfaef0a66",
+    "open_id": "3b359db4205de5ead586f1121ff19b2b",
+    "generated_at": "2026-04-25T09:52:44.531723"
+  },
+  {
+    "uid": 4745407778,
+    "password": "NARUTO_CODEX_3I8E",
+    "name": "NARUTO\u30c4\u2070\u00b3\u00b3\u2077",
+    "account_id": "15498450200",
+    "region": "IND",
+    "access_token": "11c6825d2daead29f1c6e2eab7114c8eb18f114a5dd5d67ed9ffc98e1eaeb319",
+    "open_id": "1283f41921b766de712c674536f95bf5",
+    "generated_at": "2026-04-25T09:52:47.716385"
+  },
+  {
+    "uid": 4745408019,
+    "password": "NARUTO_CODEX_BTT0",
+    "name": "NARUTO\u30c4\u00b9\u00b2\u2078\u2079",
+    "account_id": "15498451238",
+    "region": "IND",
+    "access_token": "d77ef64603b683d384d8e2746e23a13dbf34409e72c3a3792e7d8443f7274c04",
+    "open_id": "159d2cccae9bd3d72d07e1b4b08f819e",
+    "generated_at": "2026-04-25T09:52:55.246133"
+  },
+  {
+    "uid": 4745408040,
+    "password": "NARUTO_CODEX_56O2",
+    "name": "NARUTO\u30c4\u2078\u2076\u2076\u2070",
+    "account_id": "15498451363",
+    "region": "IND",
+    "access_token": "277a6feec1524ae868faa6281feec6b5ba9de2022501ab531377152fd719e19d",
+    "open_id": "2630be6f4ef1d329cb09e20139165511",
+    "generated_at": "2026-04-25T09:52:56.191785"
+  },
+  {
+    "uid": 4745408151,
+    "password": "NARUTO_CODEX_379Y",
+    "name": "NARUTO\u30c4\u00b2\u00b9\u2079\u2079",
+    "account_id": "15498451905",
+    "region": "IND",
+    "access_token": "895c714111adc674e9c1359335433a13d8539c4f896317b288c74e78a6377b8f",
+    "open_id": "94a8aa74c29cd35a0fb686620aa00288",
+    "generated_at": "2026-04-25T09:53:00.097110"
+  },
+  {
+    "uid": 4745408496,
+    "password": "NARUTO_CODEX_BR12",
+    "name": "NARUTO\u30c4\u2077\u2078\u00b9\u2070",
+    "account_id": "15498452570",
+    "region": "IND",
+    "access_token": "0eb7dd2a8403080c2d8276ba6b66daa8f96e135a2e57a6c7cd027c9cf99ebc71",
+    "open_id": "383bf5a33e136e028a543acf4d318811",
+    "generated_at": "2026-04-25T09:53:03.070842"
+  },
+  {
+    "uid": 4745408779,
+    "password": "NARUTO_CODEX_2WB8",
+    "name": "NARUTO\u30c4\u2076\u2070\u2079\u2078",
+    "account_id": "15498453256",
+    "region": "IND",
+    "access_token": "f4d631f33aa2511da121c1f3eed5e0d536ad3509000b012aa651a9a1791c935b",
+    "open_id": "d1ef1593c9cadf0d02853123bb33029d",
+    "generated_at": "2026-04-25T09:53:06.940671"
+  },
+  {
+    "uid": 4745408912,
+    "password": "NARUTO_CODEX_A56V",
+    "name": "NARUTO\u30c4\u2078\u2075\u2076\u2078",
+    "account_id": "15498453634",
+    "region": "IND",
+    "access_token": "d3bb0d449ef39fd835c5823edc9ec8ac88577dbc967047c9b04a22969cf531cc",
+    "open_id": "557fa9826a7bc32b5bc49a15e9d25d5b",
+    "generated_at": "2026-04-25T09:53:09.472503"
+  },
+  {
+    "uid": 4745408942,
+    "password": "NARUTO_CODEX_PPE3",
+    "name": "NARUTO\u30c4\u2076\u2076\u2078\u2079",
+    "account_id": "15498453832",
+    "region": "IND",
+    "access_token": "60d2d60dfcfdcad18cd54832cd780af482e586dac16651387a632e89d8810dd8",
+    "open_id": "188ac4f5fb73d46600bb605576729d85",
+    "generated_at": "2026-04-25T09:53:10.798755"
+  },
+  {
+    "uid": 4745409096,
+    "password": "NARUTO_CODEX_LMG7",
+    "name": "NARUTO\u30c4\u2074\u2075\u00b3\u2077",
+    "account_id": "15498454626",
+    "region": "IND",
+    "access_token": "fc7d72dc18a344d4538c0d8a77134f6b4142e290e19968456a1878c416d1b466",
+    "open_id": "e7e69cbf8882e22f7e8e183cdfbc9637",
+    "generated_at": "2026-04-25T09:53:16.207452"
+  },
+  {
+    "uid": 4745409224,
+    "password": "NARUTO_CODEX_C98V",
+    "name": "NARUTO\u30c4\u00b3\u00b2\u2079\u00b9",
+    "account_id": "15498455310",
+    "region": "IND",
+    "access_token": "c877cbe298353d679ae713a63068cebbfa83b5a0ce30c1b0ef3de919e8bdd635",
+    "open_id": "7cac99fa164efed69efcb4092c0b9ca0",
+    "generated_at": "2026-04-25T09:53:20.653901"
+  },
+   {
+    "uid": 4745409223,
+    "password": "NARUTO_CODEX_N7R7",
+    "name": "NARUTO\u30c4\u2079\u2079\u00b2\u2075",
+    "account_id": "15498455302",
+    "region": "IND",
+    "access_token": "d3d51f232e10741df97ab6894723c1b70c56656b73c1d4ffb0f271307c84b302",
+    "open_id": "432d0fd4432a4376ffd6af45428bde92",
+    "generated_at": "2026-04-25T09:53:20.703212"
+  },
+  {
+    "uid": 4745409226,
+    "password": "NARUTO_CODEX_V43O",
+    "name": "NARUTO\u30c4\u2075\u2070\u2070\u2079",
+    "account_id": "15498455307",
+    "region": "IND",
+    "access_token": "c5c9481a20afb5c65502f4a78adcf363b8cd409e878b62f7ef6e256075241d9a",
+    "open_id": "18fd2e6c080c718da808314e733f04f4",
+    "generated_at": "2026-04-25T09:53:20.754803"
+  },
+  {
+    "uid": 4745409227,
+    "password": "NARUTO_CODEX_KKL0",
+    "name": "NARUTO\u30c4\u00b9\u2070\u2078\u2074",
+    "account_id": "15498455443",
+    "region": "IND",
+    "access_token": "1fbd448cb4ec183d7b6b7d524e987fc6fbf33ef3634770a070ae17f90c8e662b",
+    "open_id": "42309b4982f96f012bb6f4cc6eb33fdb",
+    "generated_at": "2026-04-25T09:53:21.566442"
+  },
+  {
+    "uid": 4745409319,
+    "password": "NARUTO_CODEX_QMEN",
+    "name": "NARUTO\u30c4\u2074\u2076\u2079\u00b9",
+    "account_id": "15498455718",
+    "region": "IND",
+    "access_token": "d922d261348f8d38c0c04468fb05f06cc96a473ff502c3a8c8f613c9eb7f3dde",
+    "open_id": "2a6995819d1b2cf041df331991cd19e1",
+    "generated_at": "2026-04-25T09:53:23.494593"
+  },
+  {
+    "uid": 4745409408,
+    "password": "NARUTO_CODEX_MSTM",
+    "name": "NARUTO\u30c4\u00b2\u2078\u2079\u00b3",
+    "account_id": "15498456073",
+    "region": "IND",
+    "access_token": "c6afbdb8beb58a3db3884903ecb63b1af77c233e0cb5356f8da93ac0e9759b5a",
+    "open_id": "875841aedc615f950ade44beb37f2061",
+    "generated_at": "2026-04-25T09:53:26.259153"
+  },
+  {
+    "uid": 4745409433,
+    "password": "NARUTO_CODEX_79OA",
+    "name": "NARUTO\u30c4\u2075\u00b9\u2076\u2075",
+    "account_id": "15498456126",
+    "region": "IND",
+    "access_token": "c8df695af267b5becfcb2a3dc52e93935760e72d7282ee9e7ee253eb466676b9",
+    "open_id": "fa80bc5d70c219d0f02180abd39f52e1",
+    "generated_at": "2026-04-25T09:53:26.552562"
+  },
+  {
+    "uid": 4745409435,
+    "password": "NARUTO_CODEX_67DL",
+    "name": "NARUTO\u30c4\u2070\u00b2\u2076\u2075",
+    "account_id": "15498456274",
+    "region": "IND",
+    "access_token": "414bc1eb36143f4749262fce2df42ec05818175935c7c5174c49f270ae746fa5",
+    "open_id": "e254eca1cf94f5710236cd2224d72379",
+    "generated_at": "2026-04-25T09:53:27.587600"
+  },
+  {
+    "uid": 4745409636,
+    "password": "NARUTO_CODEX_QMLM",
+    "name": "NARUTO\u30c4\u2077\u2079\u2074\u2074",
+    "account_id": "15498457069",
+    "region": "IND",
+    "access_token": "e0be7bb77f0b9e690aea8759b4312154cab49b80ce6af7776ab185af6cee760f",
+    "open_id": "0ba101fc908fcd262ca4fee37330749c",
+    "generated_at": "2026-04-25T09:53:33.373517"
+  },
+  {
+    "uid": 4745409737,
+    "password": "NARUTO_CODEX_J6G1",
+    "name": "NARUTO\u30c4\u2070\u2076\u2070\u00b9",
+    "account_id": "15498457552",
+    "region": "IND",
+    "access_token": "1bea0ffebbddea5b0d2724e5bc3ccc0c555ec0342caca452f8eee59230aebb15",
+    "open_id": "55f49e0b4b35d803b55311aa3be28c12",
+    "generated_at": "2026-04-25T09:53:36.945241"
+  },
+  {
+    "uid": 4745409821,
+    "password": "NARUTO_CODEX_5IQN",
+    "name": "NARUTO\u30c4\u2070\u2077\u2079\u00b3",
+    "account_id": "15498457973",
+    "region": "IND",
+    "access_token": "be59375e5e3bc978f901d028e8a582c4c020c6907ca1cf7f03d91d794c277b8c",
+    "open_id": "2f40268033110d6990e8cc23f8610e70",
+    "generated_at": "2026-04-25T09:53:39.693509"
+  },
+  {
+    "uid": 4745409923,
+    "password": "NARUTO_CODEX_BNF1",
+    "name": "NARUTO\u30c4\u2076\u2077\u2076\u2079",
+    "account_id": "15498458387",
+    "region": "IND",
+    "access_token": "2d7880686e41f901f41b45ac4f10e6159dd9dcc4280cb6dea30e07c399c777da",
+    "open_id": "f8f7e5108fa235876368df73e1b4e5ae",
+    "generated_at": "2026-04-25T09:53:42.667721"
+  },
+  {
+    "uid": 4745409960,
+    "password": "NARUTO_CODEX_4T58",
+    "name": "NARUTO\u30c4\u00b9\u2070\u2074\u2074",
+    "account_id": "15498458681",
+    "region": "IND",
+    "access_token": "71cdbf68c215e2588b53171d014208ba49026df2d0d7ab4d966742781d99fb1f",
+    "open_id": "760bee0171390757c179c555ae244acb",
+    "generated_at": "2026-04-25T09:53:44.530640"
+  },
+  {
+    "uid": 4745410002,
+    "password": "NARUTO_CODEX_DBGP",
+    "name": "NARUTO\u30c4\u00b3\u2077\u2075\u00b9",
+    "account_id": "15498458832",
+    "region": "IND",
+    "access_token": "24ce219a6630e6ab5c2356df8b2df32d323e87df000d20d71bb8d5b6a3ce19e1",
+    "open_id": "8a6b148db084c04c78a4dd802627c33f",
+    "generated_at": "2026-04-25T09:53:45.452462"
+  },
+  {
+    "uid": 4745410050,
+    "password": "NARUTO_CODEX_I8UZ",
+    "name": "NARUTO\u30c4\u2075\u2079\u2075\u2074",
+    "account_id": "15498459067",
+    "region": "IND",
+    "access_token": "1798bc3812f448aab826b0078cd4a21789ee381a726b191b5abaefebade710fc",
+    "open_id": "9b7c5b22f29e433f1471c2b2e2cb6425",
+    "generated_at": "2026-04-25T09:53:46.839993"
+  },
+  {
+    "uid": 4745410112,
+    "password": "NARUTO_CODEX_37DE",
+    "name": "NARUTO\u30c4\u00b9\u2076\u2079\u2074",
+    "account_id": "15498459270",
+    "region": "IND",
+    "access_token": "436984964597dbe3d15d9bd2707bbce16cef35503ef5eb41059936b65eac9f55",
+    "open_id": "715ea9187dac08612251196bee774122",
+    "generated_at": "2026-04-25T09:53:48.191804"
+  },
+  {
+    "uid": 4745410256,
+    "password": "NARUTO_CODEX_R7BK",
+    "name": "NARUTO\u30c4\u00b9\u2079\u2076\u2078",
+    "account_id": "15498459938",
+    "region": "IND",
+    "access_token": "b27e7e924c23c7f07b45e03f302dbf7e4d27a864e4c3e97c605a5bfff8bcf32b",
+    "open_id": "819fb806b84c72062bf294f094bdd3eb",
+    "generated_at": "2026-04-25T09:53:52.869488"
+  },
+  {
+    "uid": 4745410391,
+    "password": "NARUTO_CODEX_Y9EJ",
+    "name": "NARUTO\u30c4\u2079\u2078\u00b3\u2079",
+    "account_id": "15498460540",
+    "region": "IND",
+    "access_token": "1ede546bd352a4058319e66ac1b09498a03676d1b3b0bc43b467aaee9e44787c",
+    "open_id": "2c492dada9832238ab96ad6ec318f7f0",
+    "generated_at": "2026-04-25T09:53:57.072378"
+  },
+  {
+    "uid": 4745410420,
+    "password": "NARUTO_CODEX_JGD4",
+    "name": "NARUTO\u30c4\u2075\u2075\u00b3\u2070",
+    "account_id": "15498460685",
+    "region": "IND",
+    "access_token": "42850c5129aaaacb71826e38ce32c0767326fa8722e84c2144076a7f18018d2a",
+    "open_id": "c3aba70c2f3456920e121d5e901ff340",
+    "generated_at": "2026-04-25T09:53:58.113600"
+  },
+  {
+    "uid": 4745410960,
+    "password": "NARUTO_CODEX_PB2T",
+    "name": "NARUTO\u30c4\u2076\u00b2\u00b3\u2078",
+    "account_id": "15498461785",
+    "region": "IND",
+    "access_token": "9a76eb4c42c4301425c389f29ce7826bb30d674dce5a985f5cde22957dbbd2cb",
+    "open_id": "02c4171a6fb98943a38bcab44bef59d1",
+    "generated_at": "2026-04-25T09:54:03.657701"
+  },
+  {
+    "uid": 4745410986,
+    "password": "NARUTO_CODEX_13C9",
+    "name": "NARUTO\u30c4\u2077\u2077\u00b9\u2078",
+    "account_id": "15498461806",
+    "region": "IND",
+    "access_token": "96ee5c835060e277a5555734812b87a307578e5f5bcc7a3f88c47ceec926fbeb",
+    "open_id": "c572fefce0df68cfa0f757643e1c0c21",
+    "generated_at": "2026-04-25T09:54:03.771131"
+  },
+  {
+    "uid": 4745411134,
+    "password": "NARUTO_CODEX_STJ3",
+    "name": "NARUTO\u30c4\u2075\u2077\u2079\u00b9",
+    "account_id": "15498462195",
+    "region": "IND",
+    "access_token": "42bbb3f6bb4308d36b69008da403228da8e9df4758e38fe4028452072eed8e99",
+    "open_id": "9bfeb7d3a380e96733611a50265947e3",
+    "generated_at": "2026-04-25T09:54:06.299288"
+  },
+  {
+    "uid": 4745411173,
+    "password": "NARUTO_CODEX_Y63Y",
+    "name": "NARUTO\u30c4\u00b3\u2070\u2070\u2079",
+    "account_id": "15498462387",
+    "region": "IND",
+    "access_token": "08e56a52b155b138185115192eaef3baa3da8c78c84b5d500644e0cb9a68f471",
+    "open_id": "5de2d6da7dad76e3909e1178e5afd2b0",
+    "generated_at": "2026-04-25T09:54:07.622695"
+  },
+  {
+    "uid": 4745411260,
+    "password": "NARUTO_CODEX_REAB",
+    "name": "NARUTO\u30c4\u2070\u2079\u2078\u2070",
+    "account_id": "15498462754",
+    "region": "IND",
+    "access_token": "f7ce18ba25a6102ae5e79cd4473fb8d3720dd2445bd20c13243946e96d64a8ac",
+    "open_id": "12e8f0d8c45cbe30492b95069caf159f",
+    "generated_at": "2026-04-25T09:54:10.412308"
+  },
+  {
+    "uid": 4745411259,
+    "password": "NARUTO_CODEX_XLQY",
+    "name": "NARUTO\u30c4\u00b2\u2077\u00b9\u2075",
+    "account_id": "15498462749",
+    "region": "IND",
+    "access_token": "2e2ee07d9e521007a0a352462e2fbde87e5994bdf17367586beab393f4c5ebd0",
+    "open_id": "6bfdc3c66327cdd0e80cbf3ed82f2ab2",
+    "generated_at": "2026-04-25T09:54:10.452449"
+  },
+  {
+    "uid": 4745411289,
+    "password": "NARUTO_CODEX_GWH3",
+    "name": "NARUTO\u30c4\u2075\u2078\u2076\u2076",
+    "account_id": "15498462873",
+    "region": "IND",
+    "access_token": "0d27d8e518b29ce8add3906ab4ac7ae744849600358bbff53849314a4e909a0c",
+    "open_id": "9eb7649fb8744f9b97f45c879dad7c50",
+    "generated_at": "2026-04-25T09:54:11.255222"
+  },
+  {
+    "uid": 4745411348,
+    "password": "NARUTO_CODEX_MNRF",
+    "name": "NARUTO\u30c4\u2075\u2079\u2076\u2078",
+    "account_id": "15498463182",
+    "region": "IND",
+    "access_token": "37c9d34865646b3ce814c5300911d2b3b8989da4b23363527ab324aa1f9260b8",
+    "open_id": "13e822e2d33e1e4bad5d5aca30671753",
+    "generated_at": "2026-04-25T09:54:13.094293"
+  },
+  {
+    "uid": 4745411398,
+    "password": "NARUTO_CODEX_RR9K",
+    "name": "NARUTO\u30c4\u2079\u00b9\u2079\u00b3",
+    "account_id": "15498463438",
+    "region": "IND",
+    "access_token": "ee92de55f56f07ae70fa60504b1ec78cb0fccc64dc09de5f18d72591ba7bf94a",
+    "open_id": "9feca1313472cfdd2aca1a731819c58b",
+    "generated_at": "2026-04-25T09:54:14.687874"
+  },
+  {
+    "uid": 4745411497,
+    "password": "NARUTO_CODEX_LSN6",
+    "name": "NARUTO\u30c4\u2076\u2074\u00b3\u2075",
+    "account_id": "15498463941",
+    "region": "IND",
+    "access_token": "40be7c5dc45778dd603326c726a5b330ce97c2eeb892be9ee2c6f10b5e7b3974",
+    "open_id": "81ba9a7e249243889c51be4ef6a14d5f",
+    "generated_at": "2026-04-25T09:54:17.823200"
+  },
+  {
+    "uid": 4745411651,
+    "password": "NARUTO_CODEX_VHDC",
+    "name": "NARUTO\u30c4\u2078\u00b9\u2079\u2079",
+    "account_id": "15498464721",
+    "region": "IND",
+    "access_token": "a21c01d1f70f4f008f51df317c94f56c11ffdc3f9268bd6efdea40f284a7dd97",
+    "open_id": "d8b445295d1cbee93d88e12eeb4fd107",
+    "generated_at": "2026-04-25T09:54:23.078002"
+  },
+  {
+    "uid": 4745411662,
+    "password": "NARUTO_CODEX_GINZ",
+    "name": "NARUTO\u30c4\u2078\u2070\u2076\u2075",
+    "account_id": "15498464752",
+    "region": "IND",
+    "access_token": "d63779bed14c65718e2d064afc9d39b28265728022af3d24fa4b0b50951eed5c",
+    "open_id": "ed0c345e84e3541db8a4232d639d8123",
+    "generated_at": "2026-04-25T09:54:23.321201"
+  },
+  {
+    "uid": 4745411664,
+    "password": "NARUTO_CODEX_FDK4",
+    "name": "NARUTO\u30c4\u00b2\u2075\u2077\u2078",
+    "account_id": "15498464767",
+    "region": "IND",
+    "access_token": "2894af07a1c92e853ce1850dcdf267b81850361fd270fb3d31ca3bcd9c7d272c",
+    "open_id": "9132ef881cca486e4a49fbce1f3ef138",
+    "generated_at": "2026-04-25T09:54:23.396833"
+  },
+  {
+    "uid": 4745411931,
+    "password": "NARUTO_CODEX_P886",
+    "name": "NARUTO\u30c4\u2078\u00b3\u00b3\u00b9",
+    "account_id": "15498466039",
+    "region": "IND",
+    "access_token": "a5a2b5b302c0f8e046f8eafa59b56c9580e9c3501e778bc5af48637383ec06f3",
+    "open_id": "fa68bf0f2d46c61adf88583eb05535f4",
+    "generated_at": "2026-04-25T09:54:32.671768"
+  },
+  {
+    "uid": 4745411934,
+    "password": "NARUTO_CODEX_5L8Z",
+    "name": "NARUTO\u30c4\u00b2\u2070\u2077\u2070",
+    "account_id": "15498466077",
+    "region": "IND",
+    "access_token": "d000f84407d76c9e5f63cf150578d12509fba6d714878b7c3315a8fc5d45f6bd",
+    "open_id": "a410fb0ebb551e1e05cc5021600e7d1c",
+    "generated_at": "2026-04-25T09:54:32.962528"
+  },
+  {
+    "uid": 4745411935,
+    "password": "NARUTO_CODEX_MO15",
+    "name": "NARUTO\u30c4\u2074\u2074\u2075\u00b2",
+    "account_id": "15498466052",
+    "region": "IND",
+    "access_token": "084189ddb2ca47aa4a8ad035ee1ded11c6bf43703a30bee3d8988c04247e6533",
+    "open_id": "7dff1cde92180fc10fc5609457dd4bff",
+    "generated_at": "2026-04-25T09:54:33.010433"
+  },
+  {
+    "uid": 4745411975,
+    "password": "NARUTO_CODEX_BFVN",
+    "name": "NARUTO\u30c4\u2077\u2079\u2074\u2079",
+    "account_id": "15498466260",
+    "region": "IND",
+    "access_token": "21f7e57f79585550c27d2f52b834ae9b0bd293ace007badc5f087ff150fe375b",
+    "open_id": "9f226e9d11a1015b7694b99faf811fc5",
+    "generated_at": "2026-04-25T09:54:34.139838"
+  },
+  {
+    "uid": 4745412088,
+    "password": "NARUTO_CODEX_IEEM",
+    "name": "NARUTO\u30c4\u00b9\u2074\u2079\u2078",
+    "account_id": "15498466789",
+    "region": "IND",
+    "access_token": "33184b670f0d84f06d7aa91282f1bba94f9f3a66b35448f760c2bc31de99ba89",
+    "open_id": "78ecbb923f0a913b04e8c9f5a918c00b",
+    "generated_at": "2026-04-25T09:54:37.815593"
+  },
+  {
+    "uid": 4745412059,
+    "password": "NARUTO_CODEX_XSSE",
+    "name": "NARUTO\u30c4\u00b3\u2074\u2078\u2075",
+    "account_id": "15498466683",
+    "region": "IND",
+    "access_token": "8041475cbfc08bffaeeb58f6f01c081b77303d69fd9aaac74cc3c14b46ed67e7",
+    "open_id": "91bd3374242b88bae5a01d84b242c423",
+    "generated_at": "2026-04-25T09:54:37.862839"
+  },
+  {
+    "uid": 4745412171,
+    "password": "NARUTO_CODEX_XA94",
+    "name": "NARUTO\u30c4\u2078\u2077\u2074\u00b3",
+    "account_id": "15498467246",
+    "region": "IND",
+    "access_token": "cec9341073ec52503d3bdb002c7d86b3f9d7bbf72d105ec6c3970ea4763bb1fb",
+    "open_id": "7247d8182aec41f59c3cc1dfa06a0cae",
+    "generated_at": "2026-04-25T09:54:40.951646"
+  },
+  {
+    "uid": 4745412172,
+    "password": "NARUTO_CODEX_J6T2",
+    "name": "NARUTO\u30c4\u00b3\u2078\u00b2\u2074",
+    "account_id": "15498467245",
+    "region": "IND",
+    "access_token": "ae356ff78128a453d18c91e15554a76b953472917dc845d73941f28ce8c168b8",
+    "open_id": "f721f49ea02c765c7a5b6394c71a8f79",
+    "generated_at": "2026-04-25T09:54:40.995489"
+  },
+  {
+    "uid": 4745412214,
+    "password": "NARUTO_CODEX_OJYD",
+    "name": "NARUTO\u30c4\u2074\u2079\u2079\u2075",
+    "account_id": "15498467362",
+    "region": "IND",
+    "access_token": "bfdc6b1e59af8cdac0ddce5f6f4d5fc6aa12403c08918ab355a2b426375f127c",
+    "open_id": "544396f835d29f3b434452e89b93ab0c",
+    "generated_at": "2026-04-25T09:54:41.711988"
+  },
+  {
+    "uid": 4745412459,
+    "password": "NARUTO_CODEX_G7ZR",
+    "name": "NARUTO\u30c4\u2078\u2076\u2078\u00b3",
+    "account_id": "15498468614",
+    "region": "IND",
+    "access_token": "572e3f0313bd18d46cd4e92f77a3de9e8b485fc38573d3c382a0fe91986629a9",
+    "open_id": "4b0da683e438c24074539beb812de002",
+    "generated_at": "2026-04-25T09:54:50.731284"
+  },
+  {
+    "uid": 4745412573,
+    "password": "NARUTO_CODEX_J5RI",
+    "name": "NARUTO\u30c4\u2078\u00b2\u2078\u2078",
+    "account_id": "15498469108",
+    "region": "IND",
+    "access_token": "fbfa4fd96af3463c17105d1090ef92add43b7896455cc3e056e994b70920b2ef",
+    "open_id": "0b7c07638bf0a100422a4616ec2a828c",
+    "generated_at": "2026-04-25T09:54:54.171535"
+  },
+  {
+    "uid": 4745412618,
+    "password": "NARUTO_CODEX_BL5H",
+    "name": "NARUTO\u30c4\u2077\u2076\u00b2\u00b9",
+    "account_id": "15498469372",
+    "region": "IND",
+    "access_token": "2fd6ff78459a576390136eb90b031becfa6fdbda96841544c11cf0e290e52447",
+    "open_id": "e4d72173683ac4e736dab1b2e2c3d524",
+    "generated_at": "2026-04-25T09:54:56.013682"
+  },
+  {
+    "uid": 4745412659,
+    "password": "NARUTO_CODEX_RMDU",
+    "name": "NARUTO\u30c4\u2070\u00b9\u00b3\u2077",
+    "account_id": "15498469470",
+    "region": "IND",
+    "access_token": "d59c96cd55d67e4d4ebef53f7988878af3efa05da9d59caa08f531897dadad9f",
+    "open_id": "75d644e6179460d9ec929e180ce74878",
+    "generated_at": "2026-04-25T09:54:56.670887"
+  },
+  {
+    "uid": 4745412714,
+    "password": "NARUTO_CODEX_C0JY",
+    "name": "NARUTO\u30c4\u2070\u2070\u2077\u2075",
+    "account_id": "15498469702",
+    "region": "IND",
+    "access_token": "c70605b835e782e40690d63f028b54a650d37e28f8b8e031d783dc159d9afece",
+    "open_id": "5d6b071e58674cdb81bc996f32ceedad",
+    "generated_at": "2026-04-25T09:54:58.212200"
+  },
+  {
+    "uid": 4745412716,
+    "password": "NARUTO_CODEX_H77D",
+    "name": "NARUTO\u30c4\u2076\u00b3\u2079\u2070",
+    "account_id": "15498469700",
+    "region": "IND",
+    "access_token": "943a07c2a4dc17dbb4a873dff8907547834de777be0e9c9b39b2322296bb89d5",
+    "open_id": "2d87d0473f7b894345685864d5482ebe",
+    "generated_at": "2026-04-25T09:54:58.265013"
+  },
+  {
+    "uid": 4745412931,
+    "password": "NARUTO_CODEX_PBGV",
+    "name": "NARUTO\u30c4\u00b2\u00b3\u2078\u2077",
+    "account_id": "15498470372",
+    "region": "IND",
+    "access_token": "bd3712256b3b4aa02b20eadfc82f49d3904f222cf472bcdd12d6df437222bd59",
+    "open_id": "8f4e84ebb54a45f6fabc27d4bb5ae625",
+    "generated_at": "2026-04-25T09:55:01.585917"
+  },
+  {
+    "uid": 4745413058,
+    "password": "NARUTO_CODEX_1EOJ",
+    "name": "NARUTO\u30c4\u2077\u2075\u2076\u00b2",
+    "account_id": "15498470530",
+    "region": "IND",
+    "access_token": "254b6d93256de590e29790453b827e89c7b0e42baa36e271c4c84aaa2df3fc32",
+    "open_id": "9c63b00950c8abcc169bf8ca88ca4a32",
+    "generated_at": "2026-04-25T09:55:02.209588"
+  },
+  {
+    "uid": 4745413145,
+    "password": "NARUTO_CODEX_HRRO",
+    "name": "NARUTO\u30c4\u2077\u00b2\u2070\u00b9",
+    "account_id": "15498470769",
+    "region": "IND",
+    "access_token": "4202bc1da006040fce914910656f79c9e9e3d0e8306743fa9b93d546ceb5791b",
+    "open_id": "cc5fbcdc58d1dd9039d83fb43df4841e",
+    "generated_at": "2026-04-25T09:55:03.218470"
+  },
+  {
+    "uid": 4745413444,
+    "password": "NARUTO_CODEX_VHAC",
+    "name": "NARUTO\u30c4\u2079\u2076\u2077\u00b3",
+    "account_id": "15498471256",
+    "region": "IND",
+    "access_token": "3a57b8921072121837f3115e9295a12166a6c4c311f2c2b4f1768e608822ec4f",
+    "open_id": "4b4597bfec9728e873c9fccd8d2fbc29",
+    "generated_at": "2026-04-25T09:55:05.925990"
+  },
+  {
+    "uid": 4745413621,
+    "password": "NARUTO_CODEX_ZW9U",
+    "name": "NARUTO\u30c4\u2077\u2078\u2079\u00b2",
+    "account_id": "15498472184",
+    "region": "IND",
+    "access_token": "07cb487f880f115253b0b6b65008f3c1b3f57e4f70b531d2be374e39e813f7f8",
+    "open_id": "45a6cb4dc7fa06ea5f6085b8a6af5ebb",
+    "generated_at": "2026-04-25T09:55:12.247182"
+  },
+  {
+    "uid": 4745413660,
+    "password": "NARUTO_CODEX_NU5G",
+    "name": "NARUTO\u30c4\u00b2\u00b3\u00b3\u2076",
+    "account_id": "15498472392",
+    "region": "IND",
+    "access_token": "11217935f96d3721830fd8dc6f61b278d0fa1050a480313c440b9e7ab89fa0a1",
+    "open_id": "bea7eb7b7dab3fa690efff178bf1aa7d",
+    "generated_at": "2026-04-25T09:55:13.616276"
+  },
+  {
+    "uid": 4745413694,
+    "password": "NARUTO_CODEX_GMCA",
+    "name": "NARUTO\u30c4\u2078\u00b3\u00b3\u2077",
+    "account_id": "15498472634",
+    "region": "IND",
+    "access_token": "82cf8c5fb1609e76d2a721c0bbc10d95653d0f409b1b0dae1a0f22e104986572",
+    "open_id": "a816a0fa3bfa8e6fbfa311854a6cb463",
+    "generated_at": "2026-04-25T09:55:15.091682"
+  },
+  {
+    "uid": 4745413710,
+    "password": "NARUTO_CODEX_JNX0",
+    "name": "NARUTO\u30c4\u2078\u00b3\u2079\u00b3",
+    "account_id": "15498472745",
+    "region": "IND",
+    "access_token": "2e4cdf53d6b3904e2d932aa4d46aaa98d07454a0b75bd902331a42d8e40afaff",
+    "open_id": "639227e5e53dcdcd059b212adc28b485",
+    "generated_at": "2026-04-25T09:55:15.736242"
+  },
+  {
+    "uid": 4745413858,
+    "password": "NARUTO_CODEX_EJBW",
+    "name": "NARUTO\u30c4\u00b3\u2076\u2076\u2075",
+    "account_id": "15498473696",
+    "region": "IND",
+    "access_token": "e154ec297a72b47e6e813c88abddfadf71e28abdf7f7e8bbc33fc6b9195a37e9",
+    "open_id": "1d2d20d5c99a3fb7bc6d49d543e1add4",
+    "generated_at": "2026-04-25T09:55:21.474785"
+  }
 ]
